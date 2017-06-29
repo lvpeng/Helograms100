@@ -1,0 +1,4 @@
+D:\Code\Helolens\Helolens101\Helolens101\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x64
+D:\Code\Helolens\Helolens101\Helolens101\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x64
+D:\Code\Helolens\Helolens101\Helolens101\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x64
+D:\Code\Helolens\Helolens101\Helolens101\App\Helolens101\Helolens101.csproj;x64
